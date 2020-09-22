@@ -53,3 +53,21 @@ if(-5);
 if({})
 ... Entre outras 
 */
+
+//////////////////////////////////////SWITCH://////////////////////////
+
+var corFavorita = 'Verde';
+
+switch (corFavorita){
+  case 'Preto':
+    console.log('O petróleo é preto');
+    break;
+  case 'Azul':
+    console.log('O céu é azul');
+    break;
+  case 'Verde':
+    console.log('A natureza é predominantemente verde');
+    break;
+  default:
+    console.log('Feche os olhos');
+}
