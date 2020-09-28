@@ -1,3 +1,4 @@
+//Exercicios de fixacao 7:
 //nomeie 3 propriedades ou metodos de strings
 var nome = 'Yuri';
 nome.length;
