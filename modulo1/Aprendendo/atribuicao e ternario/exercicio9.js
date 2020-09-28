@@ -1,4 +1,4 @@
-//Exercicios de fixacao 8:
+//Exercicios de fixacao 9:
 //some 500 ao valor de scroll abaixo, atribuindo o novo valor ao scroll
 var scroll = 1000;
 scroll += 500;
